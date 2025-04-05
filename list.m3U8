@@ -2,26 +2,3 @@
 #EXTINF:-1 tvg-id="BEIN1" tvg-logo="https://example.com/bein.png" group-title="Sport",BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="BET1" tvg-logo="https://example.com/bet.png" group-title="Musique",BET EAST
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="BETGOSPEL" tvg-logo="https://example.com/gospel.png" group-title="Religion",BET GOSPEL
-http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-
-#EXTINF:-1 tvg-id="BETHER" tvg-logo="https://example.com/her.png" group-title="Divertissement",BET HER
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-
-#EXTINF:-1 tvg-id="BETJAMS" tvg-logo="https://example.com/jams.png" group-title="Musique",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-
-#EXTINF:-1 tvg-id="BETSOUL" tvg-logo="https://example.com/soul.png" group-title="Musique",BET SOUL
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-
-#EXTINF:-1 tvg-id="BIGTEN" tvg-logo="https://example.com/bigten.png" group-title="Sport",BIG TEN NETWORK
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-logo="https://example.com/bloomberg.png" group-title="Info",BLOOMBERG
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://example.com/boomerang.png" group-title="Jeunesse",BOOMERANG
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
